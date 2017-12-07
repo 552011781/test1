@@ -15,3 +15,5 @@
 2017-12-6 update
 
 first-branch write--1--2
+
+first write to gitee on company computer
